@@ -12,7 +12,7 @@ while True:
 	print(result1.registers)
 	#sleep(1)
 
-'''client.connect()
+client.connect()
 res = client.write_registers(0,[2,1,0])
 client.close()
 print(res)
@@ -41,7 +41,7 @@ sleep(1)
 client.connect()
 result4 = client.read_discrete_inputs(0,3)
 client.close()
-print(result4.bits)'''
+print(result4.bits)
 
 
 
