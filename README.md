@@ -1,3 +1,3 @@
 # Smart-Stuff
 
-Here are some usefull stuff.
+Here are some dispersed code.
